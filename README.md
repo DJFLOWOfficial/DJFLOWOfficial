@@ -9,5 +9,5 @@
 ## <div align="center">🚀 Languages</div>
 
 <p align="center"> 
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="DJFLOWOfficial's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJFLOWOfficial&count_private=true&layout=compact&theme=merko&bg_color=0D1117&hide_title=true"/></a> 
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="DJFLOWOfficial's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJFLOWOfficial&count_private=true&layout=compact&theme=merko&bg_color=0D1117&hide_title=true&hide_border=true"/></a> 
 </p>
